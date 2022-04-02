@@ -1,6 +1,6 @@
 # Web Development
 
-My guide to Web development
+Resources for Front-End develops
 
 ## Cheat Sheet
 
