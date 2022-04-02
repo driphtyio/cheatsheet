@@ -1,3 +1,3 @@
-# Web Development Cheat Sheet
+## Web Development Cheat Sheet
 
-### [home](https://driphtyio.github.io/cheatsheet/) [html](https://driphtyio.github.io/cheatsheet/html.html)
+### [Home](https://driphtyio.github.io/cheatsheet/) [Html](https://driphtyio.github.io/cheatsheet/html.html)
