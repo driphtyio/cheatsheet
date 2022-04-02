@@ -1,4 +1,4 @@
-# HTML Tutorial
+# HTML 
 
 ## Introduction to HTML
 ### What is HTML? 
@@ -20,3 +20,11 @@
 </body>
 </html>
 ```
+### HTML Elements
+
+![html element](https://developer.mozilla.org/en-US/docs/Glossary/Element/anatomy-of-an-html-element.png)
+
+### HTML Tags
+``
+
+
