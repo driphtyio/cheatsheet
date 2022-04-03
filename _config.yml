@@ -1,4 +1,7 @@
-title: Cheat sheet 
+title: Coding Cheat sheet 
 description: Study Guide
 theme: minima
 google_analytics: G-VZC6J6JDPW
+header_pages: 
+  - css.md
+  - html.md
