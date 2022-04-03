@@ -1,7 +1,3 @@
-# Web Development
----------
-## Guide & Resources  
 
-### Cheat Sheet
 
-#### [Home](https://driphtyio.github.io/cheatsheet/) [Html](https://driphtyio.github.io/cheatsheet/html.html) [CSS](https://driphtyio.github.io/cheatsheet/css.html)
+![driphtyio](https://user-images.githubusercontent.com/75220825/161406182-dbbf2830-edc5-4bc3-9485-6f8b0b59e7ea.png)
